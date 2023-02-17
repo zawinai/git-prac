@@ -24,3 +24,4 @@ setupCounter(document.querySelector('#counter'))
 
 
 console.log('Hello World')
+console.log('Changed again')
